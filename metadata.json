@@ -1,0 +1,7 @@
+{
+  "name": "Aura Orb",
+  "description": "A mental wellness app that generates personalized soundscapes from your mood. Create, remix, and share calming audio sessions powered by Gemini's AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
