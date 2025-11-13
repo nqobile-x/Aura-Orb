@@ -158,6 +158,12 @@ This project is open-source and available under the MIT License.
 Built with ❤️ for mental wellness
 
 Aura-Orb: Your AI Companion for Mental Health
-`https://www.youtube.com/watch?v=3JY0hHwOCpw`
+
+https://www.youtube.com/watch?v=3JY0hHwOCpw
+[![Watch the demo](https://img.youtube.com/vi/3JY0hHwOCpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3JY0hHwOCpw)
+
+> 🎬 Click the image above to watch the full demo of Aura-Orb — an AI-powered mental health assistant built with React, Gemini API, and Vercel.
+
+
 
 
