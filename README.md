@@ -158,11 +158,11 @@ This project is open-source and available under the MIT License.
 Built with ❤️ for mental wellness
 
 Aura-Orb: Your AI Companion for Mental Health
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=3JY0hHwOCpw">
-    <img src="https://img.youtube.com/vi/3JY0hHwOCpw/maxresdefault.jpg" alt="Aura Orb Demo" width="600">
-  </a>
-  <p><em>Click to watch the Aura Orb demo</em></p>
-</div>
+
+
+https://github.com/user-attachments/assets/06bfc0f9-161c-471d-9b52-c6346789a9ec
+
+
+ 
 
 
