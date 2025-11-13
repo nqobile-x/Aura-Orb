@@ -79,13 +79,6 @@ npm run dev
 
 ---
 
-##  Live Demo
-
-Try Aura-Orb on Google AI Studio:
-[https://ai.studio/apps/drive/18CEwcFIpXCC5CYNBNFLmlkvtF-NHDaxt](https://ai.studio/apps/drive/18CEwcFIpXCC5CYNBNFLmlkvtF-NHDaxt)
-
----
-
 ##  Privacy & Security
 
 - Data Protection: Secure API integration with Google Gemini
