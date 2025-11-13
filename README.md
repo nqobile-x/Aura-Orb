@@ -41,9 +41,9 @@ Aura-Orb is a full-stack web application designed to help users navigate mental 
 
 ## 📁 Project Structure
 
-- **components/** - Reusable React components
-- **services/** - API & service integrations (Gemini)
-- **utils/** - Helper functions & utilities
+- **components** - Reusable React components
+- **services** - API & service integrations (Gemini)
+- **utils** - Helper functions & utilities
 - **App.tsx** - Main application component
 - **.env.loc
 
