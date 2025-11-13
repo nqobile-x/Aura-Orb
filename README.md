@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# 🧠 Aura-Orb
+#  Aura-Orb
 
 **AI-Powered Mental Health Support Platform**
 
@@ -10,7 +10,7 @@ An intelligent mental health companion app leveraging Google's Gemini API to pro
 
 ---
 
-## ✨ About Aura-Orb
+##  About Aura-Orb
 
 Aura-Orb is a full-stack web application designed to help users navigate mental health challenges with intelligent, AI-powered conversations. The app provides:
 
@@ -21,7 +21,7 @@ Aura-Orb is a full-stack web application designed to help users navigate mental 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - AI Mental Health Assistant: Intelligent chatbot providing supportive conversations and coping strategies
 - Privacy-Focused Architecture: End-to-end secure communication using Google Gemini API
@@ -30,7 +30,7 @@ Aura-Orb is a full-stack web application designed to help users navigate mental 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Frontend: React, TypeScript, Vite
 - Backend Services: Node.js, Express (optional backend layer)
@@ -39,7 +39,7 @@ Aura-Orb is a full-stack web application designed to help users navigate mental 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - **components** - Reusable React components
 - **services** - API & service integrations (Gemini)
@@ -50,7 +50,7 @@ Aura-Orb is a full-stack web application designed to help users navigate mental 
 
 ---
 
-## 🏃 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 16+ installed
@@ -79,14 +79,14 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 Try Aura-Orb on Google AI Studio:
 [https://ai.studio/apps/drive/18CEwcFIpXCC5CYNBNFLmlkvtF-NHDaxt](https://ai.studio/apps/drive/18CEwcFIpXCC5CYNBNFLmlkvtF-NHDaxt)
 
 ---
 
-## 🔐 Privacy & Security
+##  Privacy & Security
 
 - Data Protection: Secure API integration with Google Gemini
 - No Data Storage: Conversations are not persisted unless explicitly saved by the user
@@ -95,7 +95,7 @@ Try Aura-Orb on Google AI Studio:
 
 ---
 
-## 📚 Available Scripts
+## Available Scripts
 Development server with hot reload
 npm run dev
 
@@ -110,7 +110,7 @@ npm run lint
 
 ---
 
-## 🎯 What's Next?
+##  What's Next?
 
 - Multi-language support for global accessibility
 - Mood tracking and progress visualization
@@ -120,7 +120,7 @@ npm run lint
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to fork this repository and submit pull requests for improvements, bug fixes, or feature additions.
 
@@ -133,13 +133,13 @@ Areas for Contribution:
 
 ---
 
-## 📋 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 💬 Feedback & Support
+##  Feedback & Support
 
 - Found a bug? Open an issue on GitHub
 - Have ideas? Discussions and feature requests are welcome
@@ -147,7 +147,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Google Gemini API for powerful AI capabilities
 - React & Vite for modern web development
@@ -155,7 +155,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Built with ❤️ for mental wellness
+Built with  for mental wellness
 
 Aura-Orb: Your AI Companion for Mental Health
 
